@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <mqttconfig 
+  clientId="AmiStatus-java" 
+  gatewayAddress="124.158.5.154"  
+  port="1883" 
+  userName="admin" 
+  password="admin" 
+  qosSubcribe="0"   
+  timeAutoReconnect="20" 
+  mqttKeepAlive="15" 
+  cleanSession="1" 
+  topics="TEST/#;req/#"
+  openwirePort="61616"
+  openwireTopics="ActiveMQ.Advisory.Connection"
+  unSubcribeAffterDisconnect="0" 
+  maxThreadNum="100"
+  minThreadNum="100" 
+  threadKeepAlive="500"
+  sqlConnectionString="jdbc:oracle:thin:@192.168.1.244:1521:ami" 
+  sqlUserName="amisystem"
+  sqlPassword="123456"
+  sqlDefaultAutoCommit="TRUE"
+  sqlPoolInitSize="50"
+  sqlMinIdle="2"
+  sqlMaxIdle="10"
+  sqlMaxActive="10"
+  sqlQueryTimeOut="1000"  
+  sqlLoginTimeout="1000"
+  />  
+</configuration>

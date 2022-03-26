@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>amisystemlib</name>
+	<comment></comment>
+	<projects>
+		<project>org.eclipse.paho.client.mqttv3</project>
+		<project>org.eclipse.paho.mqtt.utility</project>
+		<project>org.eclipse.paho.ui</project>
+		<project>org.eclipse.paho.ui.core</project>
+		<project>org.eclipse.paho.ui.plugin</project>
+		<project>paho.mqtt.java-master</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+</projectDescription>

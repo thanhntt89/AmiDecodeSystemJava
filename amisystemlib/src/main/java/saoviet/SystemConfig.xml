@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <mqttconfig gatewayAddress="124.158.5.154"  port="1883" userName="admin" password="admin" qos="2" topics="DongPhung/#"
+   dbconnection connectionString="abc"  />
+  
+</configuration>

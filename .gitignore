@@ -1,0 +1,8 @@
+.metadata/.plugins/org.eclipse.core.resources/.history/
+.metadata/.plugins/org.eclipse.m2e.core/nexus/
+amisystemlib/bin/
+amisystemlib/logs/
+.metadata/
+.recommenders/
+amisystemlib/activemq-data/
+amisystemlib/data/
