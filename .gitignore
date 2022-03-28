@@ -5,4 +5,7 @@ amisystemlib/logs/
 .metadata/
 .recommenders/
 amisystemlib/activemq-data/
-amisystemlib/data/
+amigui/target/
+amisystemlib/data/2016-08-10 02-41-52 messagedata.db
+amisystemlib/data/2016-09-13 08-54-59 messagedata.db
+amisystemlib/target/test-classes/saoviet/amisystemlib/AppTest.class

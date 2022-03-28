@@ -17,6 +17,6 @@ public interface IDcuBusiness {
 	// Start thread checking Meter status use for 1 phase
 	void startThreadCheckingMeterStatus();
 
-	// Update dcu status
+	/***Update dcu status** */ 
 	void updateDcuStatus(String dcuCode, int status, String gatewayIp, String activeId);
 }
