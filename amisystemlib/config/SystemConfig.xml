@@ -2,7 +2,7 @@
 <configuration>
   <mqttconfig 
   clientId="ThanhNT-java" 
-  gatewayAddress="124.158.5.155"  
+  gatewayAddress="122.158.5.155"  
   port="7525" 
   userName="ami123dcu" 
   password="ami123dcu" 
